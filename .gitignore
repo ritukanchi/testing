@@ -1,0 +1,11 @@
+.idea
+allure-results
+allure-report
+logs/*
+target
+sample-mobile-framework.iml
+apps/
+logs/
+.DS_Store
+*.apk
+latest.apk
